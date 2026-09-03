@@ -6,6 +6,6 @@ Clear text is provided, as well as the ciphertext to ten scenarios with ten mess
 
 Finally, although I generated all one hundred WAV files, they were about twenty megabytes each, so I only uploaded on of them.  The idea was to use as much of the keypad sheet as possible without going over it when generating the ciphertext, then play the audio, repeating each line once with a one second delay between lines.
 
-This gives us a 46 minute stream of Morse code at 13 words per minute, chosen because [Jack Barsky[(https://en.wikipedia.org/wiki/Jack_Barsky) mentioned that in an interview.
+This gives us a 46 minute stream of Morse code at 13 words per minute, chosen because [Jack Barsky](https://en.wikipedia.org/wiki/Jack_Barsky) mentioned that in an interview.
 
 The Morse code uses morse shorts, aka morse cuts, to represent digits which tend to be longer than letters in morse code.
