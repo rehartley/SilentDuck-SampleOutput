@@ -1,0 +1,25 @@
+I have built the python version as a standalone executable, and placed it into c:\dev\bin\otk.exe
+
+I want you to come up with short tests so I can practice by hand as follows:
+
+1) Come up with ten plausible cold war era scenarios, such as the US placing Pershing missiles into Turkey and freaking out the russians. Make the scenario description no longer than 500 words, feel free to use point/bullet form when writing it.  Then save it as scenario-01.txt for the first, etc.  Generates cenarios that cover the mid 1950s to mid 1970s time period.  Assume that one end of the scenario is the USSR or an interest of theirs.  Feel free to add fictional elements or ones that would not be know to most participants of this exercise
+
+2) Imagine you are Soviet agents working for the West. write up brief intelligence reports as would be sent via a dead drop to your handlers.  Imagine one each of you is working for MI6, CIA, Mossad, ASIS, and also allied European and Asian agencies.  It should not exceed the amount of text as can be processed using the Trioanon-001.otk key file, which is about the same as the loremipsum.txt file contents.  I suggest a bit less, in case you run over a bit.  Save the reports so that I can tell which scenario it is about, and which report it is, ex: report-01-01.txt for the first report about the first scenario, etc.
+
+Make sure the report is about 1020 chars, as that will almost but not quite max out the maximum use of the key we have.  so far the reports you have been generating are about 300chars, which is way too short.
+
+3) encrypt these reports using OTP, retaining the key used:
+
+otp -k -z -e -i report-01-01.txt -o report-01-01.otp trianon-01.otk
+
+and so for the rest of the reports
+
+4) go through each of the output reports in *.otp format, and reading them line by line, write them out in morse code text into files named as follows:
+report-01-01.otp.txt
+
+5) Do all of the above for each report before continuing to step 6)
+
+6) go through each of the output reports in *.otp format, and reading them line by line, convert them to morse code at 13 WPM at 700Hz in a monophonic WAV file that can be read by windows. Use 8 kHz, 8-bit mono PCM WAV to keep the files small while retaining adequate fidelity and broad Windows compatibility. make sure each line is played twice with a half second pause between each line.  Use file naming as follows:
+report-01-01.wav
+
+
