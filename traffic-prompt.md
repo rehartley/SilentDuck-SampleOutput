@@ -1,6 +1,6 @@
 # Traffic Generation Prompt
 
-**Authors:** Robert Hartley ([rehartley@gmail.com](mailto:rehartley@gmail.com)) & Claude (Anthropic)
+**Authors:** rehartley & Claude (Anthropic)
 
 ## Overview
 
