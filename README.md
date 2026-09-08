@@ -11,3 +11,9 @@ Finally, although I generated all one hundred WAV files, they were about twenty 
 This gives us a 46 minute stream of Morse code at 13 words per minute, chosen because [Jack Barsky](https://en.wikipedia.org/wiki/Jack_Barsky) mentioned that in an interview.
 
 The Morse code uses morse shorts, aka morse cuts, to represent digits which tend to be longer than letters in morse code.  They are described in more detail in the SilentDuck manual, along with the straddling checkerboard method of encoding characters as numerical digits.
+
+Feel free to use and copy this OTP bookmark:
+
+![otp-bookmark.png](otp-bookmark.png)
+
+It provides the standard information you might need, and possibly forget.  Once you know how the straddling keyboard and Morse short system works, this bookmark makes it easy so you do not have to memorize the placement of numbers and letters.  Makes a fun fridge magnet.  I have carried one inside my transparent phone case for several years, and despite being visible, nobody has asked about it.  Kind of like how nobody will ask how a slide rule works, unless they are already into that sort of thing.  At least with this, the only math you need is addition and subtraction - no logarithms or batteries needed.
